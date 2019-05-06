@@ -10,4 +10,4 @@ def test_append_value_one():
 
 def test_append_value_two():
     result = append_element_to_list(element = 42)
-    # assert result == [42]
+    assert result == [42]
